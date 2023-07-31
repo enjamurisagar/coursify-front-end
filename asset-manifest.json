@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/coursify-front-end/static/css/main.ca9f55ff.css",
+    "main.js": "/coursify-front-end/static/js/main.a985ecb1.js",
+    "static/js/787.d65dc3fa.chunk.js": "/coursify-front-end/static/js/787.d65dc3fa.chunk.js",
+    "static/media/swiggy.png": "/coursify-front-end/static/media/swiggy.0e76020016db71660724.png",
+    "static/media/Dream11.jpg": "/coursify-front-end/static/media/Dream11.31d65523df649e0d3ff5.jpg",
+    "static/media/Rapido.png": "/coursify-front-end/static/media/Rapido.f47dcca46c1d4dd7ef46.png",
+    "static/media/toppr.png": "/coursify-front-end/static/media/toppr.6d4aab45c6b19f469dd3.png",
+    "static/media/gaana.jpg": "/coursify-front-end/static/media/gaana.0c46d30576f3dc41bfe2.jpg",
+    "static/media/mxplayer.jpg": "/coursify-front-end/static/media/mxplayer.8aec5ca98566d689f7b0.jpg",
+    "static/media/img1.png": "/coursify-front-end/static/media/img1.4ffb18890f7e2647e020.png",
+    "static/media/C - Create Profile.png": "/coursify-front-end/static/media/C - Create Profile.2c154bdc1f2b1dbcc95e.png",
+    "static/media/img3.png": "/coursify-front-end/static/media/img3.82e176235e807610c902.png",
+    "static/media/img2.png": "/coursify-front-end/static/media/img2.4d24ce69dcf70e776724.png",
+    "static/media/dailyhunt.png": "/coursify-front-end/static/media/dailyhunt.2af79a5897326fac166f.png",
+    "static/media/phonepe.png": "/coursify-front-end/static/media/phonepe.972cfa0348fdeb4fd44e.png",
+    "index.html": "/coursify-front-end/index.html",
+    "main.ca9f55ff.css.map": "/coursify-front-end/static/css/main.ca9f55ff.css.map",
+    "main.a985ecb1.js.map": "/coursify-front-end/static/js/main.a985ecb1.js.map",
+    "787.d65dc3fa.chunk.js.map": "/coursify-front-end/static/js/787.d65dc3fa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca9f55ff.css",
+    "static/js/main.a985ecb1.js"
+  ]
+}
