@@ -14,7 +14,7 @@ function App() {
     {/* Header */}
     <Header/>
      <Routes>
-      <Route path='/' exact element={<Home/>} />
+      <Route path='/coursify-front-end/' exact element={<Home/>} />
       <Route path='*'  element={<NoPage/>} />
 
      </Routes>
